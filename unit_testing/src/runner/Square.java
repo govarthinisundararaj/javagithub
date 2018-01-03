@@ -18,8 +18,13 @@ public class Square
 	{
 		int a=5;
 		Square obj=new Square();
+<<<<<<< HEAD
 		System.out.println("square=="+ obj.Squ_fun(a));
 		//commit
+=======
+		System.out.println("square="+ obj.Squ_fun(a));
+		//govarthini
+>>>>>>> branch 'master' of https://github.com/govarthinisundararaj/javagithub
 	}
 
 }
