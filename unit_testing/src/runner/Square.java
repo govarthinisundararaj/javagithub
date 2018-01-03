@@ -21,6 +21,7 @@ public class Square
 		System.out.println("square:"+ obj.Squ_fun(a));
 		
 	}
+	//jega
 
 }
 
