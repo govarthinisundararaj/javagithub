@@ -19,6 +19,7 @@ public class Square
 		int a=5;
 		Square obj=new Square();
 		System.out.println("square:"+ obj.Squ_fun(a));
+		//madhu
 	}
 
 }
