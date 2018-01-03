@@ -20,7 +20,7 @@ public class Square
 
 		Square obj=new Square();
 		System.out.println("square="+ obj.Squ_fun(a));
-		//gova
+		//govarthini
 
 	}
 
