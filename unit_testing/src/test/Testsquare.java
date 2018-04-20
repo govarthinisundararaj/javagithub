@@ -29,7 +29,7 @@ public class Testsquare {
 	public void add_fun()
 	{
 		Square b=new Square();
-		Assert.assertEquals(11, b.add_fun(5,5));
+		Assert.assertEquals(10, b.add_fun(5,5));
 	}
 	
 
