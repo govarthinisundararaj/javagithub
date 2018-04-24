@@ -7,6 +7,14 @@ public class Square
 	{
 	return x*x;
 	}
+	public int Squ_fun1(int x)
+	{
+	return x*x;
+	}
+	public int Squ_fun2(int x)
+	{
+	return x*x;
+	}
 	
 //Main program
 	public static void main(String[] args) 
