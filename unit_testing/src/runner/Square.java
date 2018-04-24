@@ -15,7 +15,10 @@ public class Square
 	{
 	return x*x;
 	}
-	
+	public int Squ_fun22(int x)
+	{
+	return x*x;
+	}
 //Main program
 	public static void main(String[] args) 
 	{
