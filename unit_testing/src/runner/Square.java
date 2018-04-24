@@ -17,6 +17,14 @@ public class Square
 	{
 		return (a+b);
 	}
+	public int add_fun1(int c,int d)
+	{
+		return (c+d);
+	}
+	public int add_fun2(int e,int f)
+	{
+		return (e+f);
+	}
 //Main program
 	public static void main(String[] args) 
 	{
