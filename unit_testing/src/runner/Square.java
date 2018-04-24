@@ -2,13 +2,7 @@ package runner;
 
 public class Square 
 {
-	/*int a;
-	public Square(int i) 
-	{
-		this.a=i;
-		//System.out.println("cons");
-	}
-*/
+
 	public int Squ_fun(int x)
 	{
 	return x*x;
